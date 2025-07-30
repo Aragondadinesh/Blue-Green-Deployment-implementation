@@ -81,9 +81,9 @@
 			    <version>3.11.0</version>
 			    <configuration>
 			        <release>17</release>
+			        <verbose>true</verbose>
 			        <showWarnings>true</showWarnings>
 			        <showDeprecation>true</showDeprecation>
-			        <verbose>true</verbose>
 			    </configuration>
 			</plugin>
 		</plugins>
